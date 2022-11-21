@@ -30,37 +30,37 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/eabdalmufid_' //Instagram mu
-global.sgh = 'https://github.com/eabdalmufid' //Github mu
-global.swb = 'https://linktr.ee/whatsappbotz '
-global.sfb = 'https://www.facebook.com/'
-global.syt = 'https://www.youtube.com/@silencebot' //YT Mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
-global.sdc = 'https://www.youtube.com/@silencebot' //Discord Mu
+global.sig = 'https://instagram.com/alifyoutubee12' //Instagram mu
+global.sgh = 'https://github.com/alifytkun' //Github mu
+global.swb = 'https://linktr.ee/alifyt'
+global.sfb = 'https://www.facebook.com/aidilindah'
+global.syt = 'https://www.youtube.com/@ALIFGTPS' //YT Mu
+global.sgc = 'https://chat.whatsapp.com/H8aSLswHdxhAudhzuZ9ZWS' //Group WhatsApp mu
+global.sdc = 'https://discord.gg/6qEJyzba' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '088215689772' //Dana
-global.povo = '088215689772' //Ovo
-global.pgopay = '088215689772' //Gopay
-global.ppulsa = '088215689772' //Pulsa 
-global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.pdana = '082350060897' //Dana
+global.povo = 'GDA TOT' //Ovo
+global.pgopay = '082350060897' //Gopay
+global.ppulsa = '0882020829682' //Pulsa 
+global.ppulsa2 = '085845575733' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
-global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 088215689772\n│┝‷✧ *Dana:* 088215689772\n│┝‷✧ *Gopay:* 088215689772\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
+global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│aifol\n┝‷✧ *Ovo:* -\n│┝‷✧ *Dana:* 082350060897\n│┝‷✧ *Gopay:* 082350060897\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner alif\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '6285845575733' //Nomor Bot mu
+global.nomorown = '62882020829682' //Nomormu
+global.namebot = 'ALIFxIRVAN BOT' //Nama bot mu
+global.nameown = 'ALIFxIRVAN Ganz' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.after = 'Bot by https://bit.ly/3QJOy9F'
-global.swo = 'https://wa.me/6288215689772'
-global.author = '                © Fangz BOT By Fangz' //Wm author
-global.botintro = 'Hallo, Kenalin saya Fangz BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *FangzXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.swo = 'https://wa.me/62882020829682'
+global.author = '                © Alifx BOT By ALIF' //Wm author
+global.botintro = 'Hallo, Kenalin saya ALIF BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *FangzXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
 global.thumbWarn = 'https://telegra.ph/file/38f72943a6f152112d128.jpg'
@@ -84,15 +84,15 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6281392709059'], //Owner1
-  ['6285172446692'], //Owner2
-  ['6281392709059', 'CANTIK ! 🥶', true] //Ini buat kamu!
+  ['62882020829682'], //Owner1
+  ['6283870985006'], //Owner2
+  ['6282350060897', 'CANTIK ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.cheat = [] // ketik .cheat aja
-global.waifu = []
-global.prems = [] // Jangan di isi, Tambahin dari bot nya ketik .addprem @Fangz 15
+global.mods = [6283870985006] // Want some help?
+global.cheat = [6283870985006] // ketik .cheat aja
+global.waifu = [6283870985006]
+global.prems = [6283870985006] // Jangan di isi, Tambahin dari bot nya ketik .addprem @Fangz 15
 
 
 /*⫘⫘⫘⫘ APIKEY ⫘⫘⫘⫘⫘*/
@@ -144,13 +144,13 @@ global.xckey = 'BOhjM2hUVn'
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 FANGZ - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 FANGZ - BOT'
+global.wm = '                「 赤 ALIF - BOT ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Alif - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 ALIF - BOT'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`
-global.titlebot = '𝗬𝗧: FangzXD' //Ganti serah lu
+global.titlebot = '𝗬𝗧: @ALIFGTPS' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
@@ -469,10 +469,10 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'FangzXD'
+global.nameowner = 'ALIFXD'
 global.umurowner = '15'
-global.asalowner = 'Yogyakarta, Jawa tengah'
-global.nomorowner = 'wa.me/6288215689772'
+global.asalowner = 'Balikpapaj, Kalimantan Timur'
+global.nomorowner = 'wa.me/62882020829682'
 global.pacarowner = 'Ga ada pacar'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
@@ -503,9 +503,9 @@ global.fsizedoc = '1'.repeat(10)
 global.fpagedoc = '1'.repeat(10)
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: FangzXD'
-global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By FangzXD'
+global.stickpack = 'YT: @ALIFGTPS'
+global.stickauth = `© Alif BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By ALIFXD'
 
 
 global.multiplier = 38 // The higher, The harder levelup
